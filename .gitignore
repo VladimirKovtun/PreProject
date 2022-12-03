@@ -65,7 +65,6 @@ jrebel.lic
 *.ipr
 *.iws
 .*.sw?
-.idea
 
 # paulp script
 /.lib/
@@ -73,3 +72,4 @@ jrebel.lic
 build
 .gradle
 *.pid
+/.jpb/persistence-units.xml
